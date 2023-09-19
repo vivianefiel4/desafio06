@@ -1,0 +1,160 @@
+html, body{
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(213, 216, 32);
+     
+   
+} 
+
+
+ h1{   
+    
+    font-size: 28px;
+    color: black;
+    text-align: center;
+
+}
+
+h2 {
+    color: black;
+    text-align: center;
+
+}
+
+h3{
+    color: black;
+    text-align: center;
+
+}
+
+h4{
+    color:black;
+    text-align: center;
+
+}
+
+h5{
+    color: black;
+    text-align: center;
+
+}
+
+h6{
+    color: black;
+    text-align: center;
+
+}
+
+.cor_p{
+   
+    justify-items: auto;
+    background-color: #DE1685;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 75px;
+    margin-right: 150px;
+    
+}
+
+
+.Margin{
+       
+    color: black;
+    background-color:  #963c07;
+    text-align: center;
+    padding: 2px;
+    font-size: 25px;
+
+   
+    
+    
+}
+
+.Padding{ 
+
+    color:black;
+    background-color:  #963c07;
+    text-align: center;
+    padding: 2px;
+    font-size: 25px;
+    margin: 0;
+
+
+
+       
+}
+
+.Border{
+
+    color:black;
+    background-color:  #963c07;
+    text-align: center;
+    padding: 2px;
+    font-size: 25px;
+
+
+
+}
+
+
+.cor_size_padding{
+
+    justify-items: auto;
+    margin: 20px;
+    padding: 80px;
+    background-color: #DE1685;
+}
+
+
+.cor_borda{
+
+    justify-items: auto;
+    margin-right: 280px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border: 10px solid  #963c07;
+    border-radius: 5px;
+    background-color: #DE1685;
+
+}
+
+.cor_lista{
+    border-top: 1px solid;   
+    border-bottom: 1px solid;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color:  #963c07;
+    
+}
+
+
+ul{
+   
+    padding-bottom: 10px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    border-bottom: 1px solid;
+} 
+
+ol{
+
+   padding-top: 1px;  
+    padding-bottom: 10px;
+    border-bottom: 1px solid;
+    list-style-type: none;
+        
+}  
+    
+li{
+
+    list-style-position: inside;
+    color: #963c07;
+    padding-top: 1px;
+    margin-top: 1px;
+    
+
+}    
